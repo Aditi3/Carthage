@@ -2,7 +2,7 @@
 
 ### Dynamic Frameworks - 
 
-- [AdjustSdk-DynamicFramework](https://github.com/Aditi3/Carthage/blob/main/AdjustSdk-DynamicFramework.json)
+- [AdjustSdkDynamicFramework](https://github.com/Aditi3/Carthage/blob/main/AdjustSdkDynamicFramework.json)
 
 ### XCFrameworks - 
 
